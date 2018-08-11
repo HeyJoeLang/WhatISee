@@ -519,7 +519,7 @@ MonoBehaviour:
   savedUp: {x: 0, y: 1, z: 0}
   savedRectSize: {x: 549.2, y: 386.5}
   savedColor: {r: 0, g: 0, b: 0, a: 1}
-  savedTextUV0: {x: 0, y: 0.00390625}
+  savedTextUV0: {x: 0.296875, y: 0.21679688}
   savedFill: 0
 --- !u!114 &86430627
 MonoBehaviour:
@@ -586,7 +586,7 @@ GameObject:
   - component: {fileID: 125590905}
   m_Layer: 5
   m_Name: nextButton
-  m_TagString: Untagged
+  m_TagString: UI_Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1903,7 +1903,7 @@ MonoBehaviour:
   savedUp: {x: 0, y: 1, z: 0}
   savedRectSize: {x: 549.2, y: 386.5}
   savedColor: {r: 0, g: 0, b: 0, a: 1}
-  savedTextUV0: {x: 0.34375, y: 0.16601562}
+  savedTextUV0: {x: 0, y: 0.00390625}
   savedFill: 0
 --- !u!114 &501752081
 MonoBehaviour:
@@ -4783,7 +4783,7 @@ GameObject:
   - component: {fileID: 1357820018}
   m_Layer: 5
   m_Name: prevButton
-  m_TagString: Untagged
+  m_TagString: UI_Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7009,7 +7009,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 1c83e94f03a3fa349b4b9d7ab85c0c26, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.695
+  m_Volume: 0.218
   m_Pitch: 1
   Loop: 1
   Mute: 0
